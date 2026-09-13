@@ -1,0 +1,46 @@
+<script>
+        // a. Function using Rest Operator to accept multiple numbers and return their sum
+    function sumNumbers(...numbers) {
+        return numbers.reduce((total, num) => total + num, 0);
+    }
+
+    console.log("Sum:", sumNumbers(10, 20, 30, 40));
+
+
+    // b. Merge two arrays using Spread Operator
+    const array1 = [1, 2, 3];
+    const array2 = [4, 5, 6];
+
+    const mergedArray = [...array1, ...array2];
+
+    console.log("Merged Array:", mergedArray);
+
+
+    // c. Copy and update an object using Spread Operator
+    const student = {
+        name: "Rahul",
+        age: 20,
+        course: "BCA"
+    };
+
+    const updatedStudent = {
+        ...student,
+        age: 21,          // updating property
+        city: "Delhi"     // adding new property
+    };
+
+    console.log("Original Object:", student);
+    console.log("Updated Object:", updatedStudent);
+
+
+    // d. Passing array elements as function arguments using Spread Operator
+    function multiply(a, b, c) {
+        return a * b * c;
+    }
+
+    const numbers = [2, 3, 4];
+
+    const result = multiply(...numbers);
+
+    console.log("Multiplication Result:", result);
+</script>

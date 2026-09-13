@@ -1,0 +1,16 @@
+Student_ID,Name,Gender,Age,Class,Math,Science,English,Attendance_Percentage,Study_Hours_per_Week,Parent_Education,Internet_Access,Final_Grade
+101,Aarav,Male,16,10,78,85,88,92,14,Graduate,Yes,A
+102,Diya,Female,15,10,67,,74,85,12,Postgraduate,Yes,B
+103,Vihaan,Male,16,10,,79,81,88,,Graduate,No,B
+104,Ananya,Female,15,10,92,91,89,95,18,Postgraduate,Yes,A
+105,Arjun,Male,17,11,55,61,,72,8,High School,Yes,C
+106,Ishita,Female,,11,73,68,70,80,10,Graduate,,
+107,Rohan,Male,16,11,88,,84,90,16,Graduate,Yes,A
+108,Meera,Female,15,10,60,65,62,,9,High School,No,C
+109,Kabir,Male,17,12,45,52,48,60,6,,No,D
+110,Saanvi,Female,16,12,81,78,,89,15,Postgraduate,Yes,B
+111,Aditya,Male,15,10,,74,77,83,11,Graduate,Yes,B
+112,Tara,Female,16,11,69,72,75,86,,Graduate,Yes,B
+113,Yash,Male,17,12,90,94,93,97,20,Postgraduate,Yes,A
+114,Riya,Female,16,11,58,,64,75,7,High School,,C
+115,Krishna,Male,,12,76,82,80,88,13,Graduate,Yes,B

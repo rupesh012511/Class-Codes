@@ -1,0 +1,16 @@
+Student_ID,Name,Gender,Age,Class,Math,Science,English,Attendance_Percentage,Study_Hours_per_Week,Parent_Education,Internet_Access,Final_Grade
+101,Aarav,Male,16.0,10,78.0,85.0,88.0,92.0,14.0,Graduate,Yes,A
+102,Diya,Female,15.0,10,67.0,75.08333333333333,74.0,85.0,12.0,Postgraduate,Yes,B
+103,Vihaan,Male,16.0,10,71.6923076923077,79.0,81.0,88.0,12.23076923076923,Graduate,No,B
+104,Ananya,Female,15.0,10,92.0,91.0,89.0,95.0,18.0,Postgraduate,Yes,A
+105,Arjun,Male,17.0,11,55.0,61.0,75.76923076923077,72.0,8.0,High School,Yes,C
+106,Ishita,Female,15.923076923076923,11,73.0,68.0,70.0,80.0,10.0,Graduate,,
+107,Rohan,Male,16.0,11,88.0,75.08333333333333,84.0,90.0,16.0,Graduate,Yes,A
+108,Meera,Female,15.0,10,60.0,65.0,62.0,84.28571428571429,9.0,High School,No,C
+109,Kabir,Male,17.0,12,45.0,52.0,48.0,60.0,6.0,,No,D
+110,Saanvi,Female,16.0,12,81.0,78.0,75.76923076923077,89.0,15.0,Postgraduate,Yes,B
+111,Aditya,Male,15.0,10,71.6923076923077,74.0,77.0,83.0,11.0,Graduate,Yes,B
+112,Tara,Female,16.0,11,69.0,72.0,75.0,86.0,12.23076923076923,Graduate,Yes,B
+113,Yash,Male,17.0,12,90.0,94.0,93.0,97.0,20.0,Postgraduate,Yes,A
+114,Riya,Female,16.0,11,58.0,75.08333333333333,64.0,75.0,7.0,High School,,C
+115,Krishna,Male,15.923076923076923,12,76.0,82.0,80.0,88.0,13.0,Graduate,Yes,B
